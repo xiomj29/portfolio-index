@@ -17,17 +17,17 @@ Here you will find an organized selection of my work in system development, auto
 - [Hanoi](https://github.com/xiomj29/Hanoi)  
   Recursive and graphical implementation of the Tower of Hanoi problem in C.
 
-- [Knapsack](https://github.com/xiomj29/Knapsack) 
+- [Knapsack](https://github.com/xiomj29/Knapsack)  
   Solution to the knapsack problem using dynamic programming.
 
-- [N Queens](https://github.com/xiomj29/NQueens)
+- [N Queens](https://github.com/xiomj29/NQueens)  
   Solution to the N queens problem using backtracking.
 
 ---
 
 ## Data Analysis & Web Backend
 
-- [DW Project - Analysis of academic trajectory](https://github.com/xiomj29/DW-Project---analysis-of-academic-trajectory)
+- [DW Project - Analysis of academic trajectory](https://github.com/xiomj29/DW-Project---analysis-of-academic-trajectory)  
   Academic performance analysis backend using Django and PostgreSQL.
 
 ---
@@ -37,23 +37,23 @@ Here you will find an organized selection of my work in system development, auto
 - [NFA (AFND)](https://github.com/xiomj29/AFND)  
   Non-deterministic finite automaton simulator in C.
 
-- [DFA (AFD)](https://github.com/xiomj29/AFD) 
+- [DFA (AFD)](https://github.com/xiomj29/AFD)   
   Deterministic finite automaton simulator in C.
 
-- [Regular Expressions](https://github.com/xiomj29/Expresiones-Regulares)
+- [Regular Expressions](https://github.com/xiomj29/Expresiones-Regulares)  
   Implementation and analysis of regular expressions.
 
-- [String Operations](https://github.com/xiomj29/Operaciones-con-cadenas)
+- [String Operations](https://github.com/xiomj29/Operaciones-con-cadenas)  
   Programs for string manipulation and analysis.
 
 ---
 
 ## Signal Processing
 
-- [Aliasing and Oversampling](https://github.com/xiomj29/Aliasing-y-sobremuestreo-MATLAB)
+- [Aliasing and Oversampling](https://github.com/xiomj29/Aliasing-y-sobremuestreo-MATLAB)  
   Signal processing project analyzing aliasing and oversampling techniques.
 
-- [Voice DFT](https://github.com/xiomj29/VoiceDFT-C)  
+- [Voice DFT](https://github.com/xiomj29/VoiceDFT-C)   
   Signal processing project in C focused on the Discrete Fourier Transform.
 
 ---
